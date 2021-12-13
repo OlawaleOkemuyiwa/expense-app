@@ -1,0 +1,1 @@
+Basic Info to React, props, components and state 
